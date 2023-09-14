@@ -1,0 +1,9 @@
+torch=2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+
+# torch=1.13.1
+# torchvision==0.14.1
+# torchaudio==0.13.1
+# torch-cuda=11.6
+
